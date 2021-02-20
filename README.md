@@ -1,7 +1,15 @@
-# Counting apples from the Minneapple dataset using different image processing techniques.
+# Counting apples from the [Minneapple dataset](https://conservancy.umn.edu/handle/11299/206575) 
+Using different image processing techniques.
 
+
+Made in colaboration with Emil Delvaux
+
+
+First crash into neural networks.
+
+<---
 Assignment for Machine Vision, 2020
-
+--->
 
 
 ## Segmentation using color channels
@@ -17,7 +25,10 @@ Images are split, equalized, thresholded and filtered with morphological operati
 
 ## Basic CNN implementation from scratch in two parts:
 
-using the [RGB](https://github.com/RobotKitchen/AppleCounting/blob/main/Approach1_HSVSegmentation.ipynb)
-and [HSV](https://github.com/RobotKitchen/AppleCounting/blob/main/Approach1_RedChannelSegmentation.ipynb) color channels.
+ - [Design and training](https://github.com/RobotKitchen/AppleCounting/blob/main/Approach2_MachineTraining.ipynb) of the CNN, using the counting dataset from Minneapple. Structure and weights saved for later.
+ - [Using the CNN](https://github.com/RobotKitchen/AppleCounting/blob/main/Approach2_Counter.ipynb). Splitting the image into chunks, feeding each one into the trained network and summing up the total of apples.
 
+
+
+Overall results are... not the greatest, but as alearning experience was extremely rewarding.
 
