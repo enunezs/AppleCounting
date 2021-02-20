@@ -1,11 +1,10 @@
 # Counting apples from the [Minneapple dataset](https://conservancy.umn.edu/handle/11299/206575) 
-Using different image processing techniques.
 
 
 *Made in colaboration with Emil Delvaux*
 
 
-First crash into neural networks.
+My first proper crash into neural networks.
 
 
 
