@@ -25,6 +25,9 @@ Images are split, equalized, thresholded and filtered with morphological operati
  - [Using the CNN](https://github.com/RobotKitchen/AppleCounting/blob/main/Approach2_Counter.ipynb). Splitting the image into chunks, feeding each one into the trained network and summing up the total of apples.
 
 
+## Verdict
 
-Overall results are... not the greatest, but as alearning experience was extremely rewarding.
+Overall results are... not the greatest, quite bad actually with an error of around +-30% from truth. 
+
+As a learning experience however, the project was extremely rewarding, allowing us to crash headfirst into traditional and NN segmentation techniques.
 
