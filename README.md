@@ -2,14 +2,11 @@
 Using different image processing techniques.
 
 
-Made in colaboration with Emil Delvaux
+*Made in colaboration with Emil Delvaux*
 
 
 First crash into neural networks.
 
-<---
-Assignment for Machine Vision, 2020
---->
 
 
 ## Segmentation using color channels
