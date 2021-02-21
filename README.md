@@ -1,7 +1,8 @@
 # Counting apples from the [Minneapple dataset](https://conservancy.umn.edu/handle/11299/206575) 
 
 
-*Made in colaboration with Emil Delvaux*
+*Made in colaboration with [Emil Delvaux](https://github.com/emildel)*
+
 
 
 My first proper crash into neural networks.
